@@ -1,1 +1,3 @@
-# 2048_dima_alifirenko
+# 2048 
+### Это игрп создано для сайта Pysoc.ru  
+> pysoc.ru 
